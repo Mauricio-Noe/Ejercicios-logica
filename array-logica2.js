@@ -21,4 +21,4 @@ function battleHorde(zombies, humans) {
    return `${Math.abs(z -h)}${reporte}` 
     
   }
-  
+   
