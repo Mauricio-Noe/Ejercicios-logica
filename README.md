@@ -1,4 +1,5 @@
-Ejercicios de Lógica con Arrays en JavaScript 🔢
+Ejercicios de Lógica con Arrays en JavaScript 
+
 Este repositorio contiene una colección de ejercicios para practicar y mejorar tus habilidades en el manejo de arrays con JavaScript.
 
 Contenido
