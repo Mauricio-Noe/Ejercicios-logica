@@ -37,12 +37,12 @@ function CalculateRunningTotal(aporte , list_of_numbers ) {
  
 
     }
-    //utilize reducce para sumar y multiplicar los valores de la matriz
+    //utiliza reducce para sumar y multiplicar los valores de la matriz
     const productovalor= list_of_numbers.reduce((acc , val ) => acc * val , 1) ;
  const sumavalor= list_of_numbers.reduce((acc, val)=> acc + val, 0);
-  //coprobamos y comparamos valores
+  //coprobar y compar valores
  if( productovalor % 2 === 0 ){
-  // ocupe include que en js sue utilizxa para detectar si se usa el valor asignado
+  // ocupe include que en js sue utilizado para detectar si se usa el valor asignado
     if(  list_of_numbers.includes(0) ){
 return sumavalor *2;
 
