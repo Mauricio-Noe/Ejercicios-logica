@@ -9,3 +9,4 @@ Problemas clásicos: Ordenamiento, búsqueda, combinaciones, etc.
 
 Soluciones: Opcionales y bien documentadas en la carpeta soluciones.
  
+ // Estos ejercicios no son propios son sacados de internet solo se usan para fin educativo y no para fenicios de lucro
